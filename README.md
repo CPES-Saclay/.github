@@ -1,1 +1,1 @@
-# .github
+# CPES Paris-Saclay
